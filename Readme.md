@@ -1,4 +1,4 @@
-# Bluetooth Service Application
+# Flipper Zero Bluetooth GATT Service Application
 
 ## Overview
 
