@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application sets up a Bluetooth service with a specific UUID and a characteristic that returns a constant string value. The application also includes GUI elements and manages resources efficiently.
+This application sets up a Bluetooth service with a specific UUID and a characteristic that returns a constant string value using Flipper Zero (0.105.0). The application also includes GUI elements and manages resources efficiently.
 
 ## Features
 
